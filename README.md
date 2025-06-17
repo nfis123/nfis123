@@ -1,5 +1,5 @@
 ## Hi there 👋
- 🔭 I’m currently working on understanding the fundamentals of Github and improving my coding skills.
+ 🔭 Currently, my favorite flavor of ice cream is cookies and cream.
 <!--
 **nfis123/nfis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
